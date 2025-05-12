@@ -89,11 +89,7 @@ dataset_yolo_split/
    - An `images/` folder containing `.jpg`, `.png`, or `.jpeg` files.
    - A `labels/` folder with YOLO-format `.txt` annotations matching each image.
    - A `classes.txt` file listing class names (one per line).
-3. Run the script:
 
-```bash
-python create_yolo_split.py
-```
 
 4. Enter the desired train/validation split percentages when prompted.
 

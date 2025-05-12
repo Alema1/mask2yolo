@@ -16,6 +16,7 @@ Output:
 
 ## 📁 Dataset structure (input)
 
+```python
 your-dataset/
 ├── images/
 │ ├── image1.png
@@ -25,7 +26,7 @@ your-dataset/
 │ ├── image1.png
 │ ├── image2.png
 │ └── ...
-
+```
 
 ## ⚙️ How to use
 
